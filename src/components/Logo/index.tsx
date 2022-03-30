@@ -1,4 +1,11 @@
-import * as React from "react"
+/*
+ * @Author: Pacific_D
+ * @Date: 2022-03-30 22:17:46
+ * @LastEditTime: 2022-03-30 22:17:47
+ * @LastEditors: Pacific_D
+ * @Description: 
+ * @FilePath: \cr-frontend\src\components\Logo\index.tsx
+ */
 import {
   chakra,
   keyframes,
